@@ -1,6 +1,6 @@
 # BaseProject-Cpp
-[![Build Status](https://travis-ci.org/Soft-and-Hard-Weight-Industrial-Instructor-Forum.svg?branch=master)](https://travis-ci.org/Soft-and-Hard-Weight-Industrial-Instructor-Forum)
-[![codecov](https://codecov.io/gh/Soft-and-Hard-Weight-Industrial-Instructor-Forum/branch/master/graph/badge.svg)](https://codecov.io/gh/Soft-and-Hard-Weight-Industrial-Instructor-Forum)
+[![Build Status](https://travis-ci.org/sisia881112/Soft-and-Hard-Weight-Industrial-Instructor-Forum.svg?branch=master)](https://travis-ci.org/sisia881112/Soft-and-Hard-Weight-Industrial-Instructor-Forum)
+[![codecov](https://codecov.io/gh/sisia881112/Soft-and-Hard-Weight-Industrial-Instructor-Forum/branch/master/graph/badge.svg)](https://codecov.io/gh/sisia881112/Soft-and-Hard-Weight-Industrial-Instructor-Forum)
 
 分組專題基本樣板(C++)
 
